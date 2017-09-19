@@ -1,0 +1,219 @@
+http://devcodegeek.com/best-css-code-generators-developers.html?ref=webdesignernews.com
+
+http://devcodegeek.com/best-php-frameworks-for-php-developers.html -- NEED = Build own site with microframework
+
+http://web-answers.ru/
+
+/* 30 YouTube-каналов для обучения веб-разработке*/
+1.Sorax — JavaScript, CSS, обзоры, подкасты 
+2.webtheory — HTML, CSS, CoffeeScript, jQuery 
+3.loftblog — новости, обзоры, JavaScript, jQuery, CSS, HTML 
+4.Веб-стандарты — доклады по современным фронтэнд-технологиям 
+5.RubyScreencastsRu — скринкасты по Ruby и Ruby on Rails 
+6.Magisters | Обучение современным профессиям — HTML5, CSS3, JavaScript, Bootstrap, PHP, Python 
+7.Master-CSS — PHP, HTML, веб-дизайн 
+8.AutoLineX — PHP, HTML, CSS, jQuery, обзоры 
+9.knowcity — PHP, HTML, CSS, JavaScript, jQuery 
+10.uWebDesign — WordPress, CSS, Sass, обзоры, подкасты 
+11.webformyself — CSS, HTML, обзоры 
+12.Google Developers — доклады, обзоры, туториалы 
+13.Helping Develop — PHP, jQuery, HTML, CSS 
+14.Sass Bites Podcast — Sass 
+15.LevelUpTuts — HTML5, Stylus, CSS, Sass, WordPress 
+16.DevTips — Foundation, CSS, RWD 
+17.mjdwebdesign — CSS, HTML, JavaScript 
+18.Treehouse — CSS, JavaScript, HTML, обзоры 
+19.LearnCode.academy — JavaScript, jQuery, обзоры 
+20.Derek Banas — JavaScript 
+21.LearnWebCode — WordPress, RWD, HTML, CSS, JavaScript, jQuery 
+22.Adam Khoury — HTML, HTML5, CSS, JavaScript, PHP 
+23.phpacademy — CSS, PHP, Sass, Node.js, Laravel
+24.thenewboston — HTML5, JavaScript, PHP 
+25.andrewperk — Ruby on Rails, CakePHP, Laravel 
+26.AbdulKhan — PHP, JavaScript, SEO, jQuery 
+27.computttsmaster — PHP, Node.js 
+28.fallendown2005 — laravel 
+29.TheDigiCraft — PHP, HTML5, CSS3 
+30.Dr Richard Stibbard — PHP, WordPress, jQuery UI
+
+/* Responsive online */
+http://ami.responsivedesign.is/
+http://deviceponsive.com/
+http://quirktools.com/screenfly
+
+/* Learn Grid-flex */
+http://css-live.ru/articles-css/grid-fleksboks-moshhnejshee-kombo-v-veb-raskladke.html
+http://css-live.ru/articles-css/progressive-flexbox-horizontal-justify.html
+https://habrahabr.ru/post/325760/
+https://www.youtube.com/watch?v=uWze8aMlZ0s
+Flex: https://html5book.ru/css3-flexbox/
+http://jsbin.com/xeterozawo/1/edit
+
+/** From BC**/
+http://overapi.com - сниппеты по языкам программирования
+http://www.thepetedesign.com/demos/label_better_demo.html - прикольные плейсхолдеры для полей
+http://tech.tmw.co.uk/code/TMW-frontend-guidelines/ - спецификация по стандартам оформления css, html, jquery файлов
+https://developer.mozilla.org/en-US/ - сниппеты и интересные материалы
+http://codyhouse.co/demo/pagination/index.html - резиновая пагинация
+
+http://www.viewlike.us/ - тестирование сайтов на резиновость на разных устройствах
+https://browserling.com/ - разные браузеры для тестирования сайтов
+Posted on Feb 10, 2015
+
+https://medium.com/everything-about-startups-and-entrepreneurship/300-aweso…
+Более 300 полезных ссылок, начиная от сео оценок сайтов и заканчивая сайтами для генерации доменных имен
+
+http://mintlinux.ru/blogs/linux-mint-shagi-k-komfortu/kak-odnovremeno-zapustit-neskolko-skype-akauntov.html - download multi skypes
+
+Параллакс эффект
+http://www.dejurka.ru/web-design/parallax-plugins-and-tutorials/ - параллакс 
+http://tympanus.net/Tutorials/ParallaxSlider/ - параллакс слайдер 
+http://habrahabr.ru/post/141687/ - параллакс 
+http://habrahabr.ru/post/161875/ - параллакс 
+http://www.desiznworld.com/2013/07/jquery-parallax-scrolling-tutorials.html - параллакс 
+http://potentpages.com/parallax-scroll-tutorial/ - параллакс 
+http://www.onextrapixel.com - крутой блог 
+http://www.1stwebdesigner.com/css/create-scrolling-parallax-website/ - параллакс 
+http://speckyboy.com/2012/07/20/the-parallax-scrolling-effect-40-examples-a… - параллакс 
+http://www.pencilscoop.com/2013/12/how-to-create-a-parallax-scrolling-websi… - параллакс
+
+Есть к чему стремится - мощная тема с параллаксом: http://parasponsive.com/para4/ 
+
+/** Services for load sites **/
+https://www.webpagetest.org/
+https://tools.pingdom.com/
+https://gtmetrix.com
+http://www.designonstop.com/useful/service/16-onlajn-servisov-dlya-analiza-i-proverki-skorosti-zagruzki-sajta.htm
+
+/** Sequrity WP-links **/
+http://moi-tarakany.ru/bezopasnost/vzlom-sajta.html
+https://wpsec.ru/
+
+//## Study JS 2017
+http://knpuniversity.com/screencast/javascript-es6
+//let/var/const
+
+/** Material admin template **/
+http://preview.themeforest.net/item/material-admin-bootstrap-admin-html5-app/full_screen_preview/10646222?ref=cirvitis
+http://vseoweb.in.ua/programmirovanie/silex-organizacija-prilojenija.html
+https://andrey.4devs.io/ru/php/routes-silex.html
+http://bsa-git.github.io/silex-mvc/ru/documentation/basic-project/
+
+/**Regex**/
+http://regexr.com/
+https://projects.lukehaas.me/regexhub/
+http://www.nncron.ru/help/RU/add_info/regexp.htm
+/*end*/
+https://webref.ru - BEST cool
+
+https://gist.github.com/codedokode/65d43ca5ac95c762bc1a
+https://gist.github.com/codedokode/c4cbc4d7dc8e45ea074a
+
+https://www.youtube.com/watch?v=8xBEd2WOukg - mozg
+https://www.youtube.com/watch?v=KJW8Py_QjXM - people
+https://habrahabr.ru/post/279867/ - js array
+
+Bogdan Vorona
+http://www.slideshare.net/BohdanVorona/php-microframeworks
+https://lumen.laravel.com/
+http://silex.sensiolabs.org/
+
+http://wsnippets.com/ - From me
+
+/********** Download Free ************/
+http://themelot.net/wpml-v3-1-9-6-multilingual-plugin-addons-pack.html - download free
+http://www.nulled-scripts.xyz/wordpress/wordpress-plugins/  - new plugins 1
+https://www.jojothemes.com/ - new plugins 1
+https://uniktheme.com
+/*** End **/
+
+http://blog.rabota.ua/anatomyya-dostyzhenyy-7-raznyh-mnenyy-o-tom-chto-pryvodyt-lyudey-k-uspehu/?utm_source=news&utm_medium=newsletter&utm_campaign=news_all&email=shandm@ukr.net-1420-290416 - Read
+https://htmlweb.ru/css/media_screen.php
+https://habrahabr.ru/company/yandex/blog/168259/
+https://habrahabr.ru/company/yandex/blog/245869/
+
+https://github.com/bohdan-vorona/awesome-php
+
+https://www.youtube.com/watch?v=WMedJeGaVxU - Verstka PSD
+http://frontender.info/a-guide-to-flexbox/
+http://askubuntu.com/questions/179324/huawei-e173-on-ubuntu-12-04 - install modem
+https://wordpress.org/support/topic/adding-your-theme-to-the-wordpressorg-repository - download wp theame on wp-repo
+
+https://www.youtube.com/watch?v=-1x5eoVtpE8&index=2&list=PLcVuGt1dXgc3O7hZoUS3EgdLO70N2-Hbu - adaptivnaya verstka
+
+http://startbloggingonline.com/speed-up-wordpress/
+http://tools.pingdom.com/fpt/
+http://www.jqueryscript.net/lightbox/Flexible-jQuery-Animated-Modal-Window-Plugin-moaModal.html
+http://www.jqueryscript.net/lightbox/Simplest-Modal-Dialog-Box-Plugin-With-jQuery-Easy-Modal.html
+http://pgwjs.com/pgwmodal/
+http://www.jqueryscript.net/lightbox/Fully-Responsive-Customizable-jQuery-Modal-Plugin-PgwModal.html
+
+https://vk.com/page-54530371_46738526
+https://github.com/woothemes/woocommerce
+http://coffeecupweb.com/
+
+https://stfalcon.com/ru/blog/post/improve-your-code-with-badges
+
+http://itmentor.by/articles/30-resursov-dlya-obucheniya-programmirovaniyu - learn source BEST
+https://github.com/modularcode/modular-admin-html
+http://plutov.by/demo/history-api3
+http://plutov.by/post/html5_history_api
+
+/* Git */
+http://eax.me/git-commands/ - Git
+http://learngitbranching.js.org/
+
+/** Download free books **/
+http://bookwebmaster.narod.ru/
+http://proglibrary.ru/category/javascript_jquery
+http://forcoder.ru/php/
+/** End **/
+
+https://github.com/php-fig/fig-standards/tree/master/accepted
+
+/** JS **/
+https://www.youtube.com/watch?v=8nWQCcqUwR0&feature=youtu.be 
+
+https://www.sitepoint.com/whats-new-and-exciting-in-php-7-1/?ref=webdesignernews.com
+
+/* SSH */
+https://xakep.ru/2016/12/16/ssh-tips-n-tricks/?utm_source=email&utm_medium=digest&utm_campaign=digest_2016-12-18
+
+/* Crypt */
+https://xakep.ru/2016/12/15/crypto-part5/?utm_source=email&utm_medium=digest&utm_campaign=digest_2016-12-18
+
+http://bootsnipp.com/
+
+/* CSS */
+https://itchief.ru/lessons/javascript/javascript-history-object
+http://javascript.ru/forum/misc/13116-kak-vybrat-li-ehlementy-iz-pervogo-urovnya-menyu.html
+https://learn.javascript.ru/onload-ondomcontentloaded
+
+/** Amazing backend **/
+http://akveo.com/blur-admin-mint/#/dashboard
+http://wrapbootstrap.com/preview/WB02R1485
+http://urban.nyasha.me/angular/#/
+https://colorlib.com/wp/angularjs-admin-templates/
+http://www.egrappler.com/bootstrap-responsive-admin-template/index.html 
+https://webthemez.com/preview/?marvel-bootstrap-html-admin-template
+http://www.blacktie.co/demo/dashgum/index.html
+https://colorlib.com/polygon/gentelella/index.html
+
+/* English audirovanie */
+http://englex.ru/how-to-learn-english-with-cartoons/
+http://englex.ru/how-to-learn-english-with-audio-and-video/
+http://englex.ru/bad-habits-in-learning-english/
+http://englex.ru/28-best-applications-for-learning-english/
+
+http://englex.ru/13-most-common-grammar-mistakes/
+http://englex.ru/english-for-it-specialists/
+http://englex.ru/5-free-video-sources-to-practice-english/
+
+http://engblog.ru/partitive-expressions
+http://engblog.ru/talking-about-junk-food
+
+https://wp-kama.ru/id_71/fayl-shablona-functionsphp-v-wordpress.html
+
+http://english-tutorial.ru/grammar-106/ - предлог + глагол
+
+https://english4real.com/index.html
