@@ -1,0 +1,18 @@
+https://github.com/pehapkari/awesome-symfony-education - new March 23, 2017
+
+https://knpuniversity.com/screencast/symfony/routing-wildcards#play
+http://symfony.com/doc/current/routing.html
+https://github.com/symfony/symfony-demo
+
+http://symfony.com/doc/current/setup/web_server_configuration.html
+http://symfony.com/doc/current/doctrine.html
+
+http://twig.sensiolabs.org/doc/templates.html
+https://symfony.com/doc/current/quick_tour/the_view.html
+
+
+Laravel:
+https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/en_US.md
+
+Lumen:
+https://github.com/unicodeveloper/awesome-lumen
