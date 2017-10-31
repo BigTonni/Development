@@ -211,9 +211,16 @@ http://englex.ru/5-free-video-sources-to-practice-english/
 
 http://engblog.ru/partitive-expressions
 http://engblog.ru/talking-about-junk-food
+http://englex.ru/10-useful-advice-on-how-to-develop-listening-skills/
 
 https://wp-kama.ru/id_71/fayl-shablona-functionsphp-v-wordpress.html
 
 http://english-tutorial.ru/grammar-106/ - предлог + глагол
 
 https://english4real.com/index.html
+
+/* Brain */
+http://blog.rabota.ua/syla-mysly-5-vystuplenyy-o-tom-kak-rabotaet-nash-mozh-y-pamyat/
+
+/* SOLID */
+https://habrahabr.ru/post/208442/
