@@ -84,6 +84,8 @@ https://www.webpagetest.org/
 https://tools.pingdom.com/
 https://gtmetrix.com
 http://www.designonstop.com/useful/service/16-onlajn-servisov-dlya-analiza-i-proverki-skorosti-zagruzki-sajta.htm
+http://rightblog.ru/2632
+http://compressjpeg.com
 
 /** Sequrity WP-links **/
 http://moi-tarakany.ru/bezopasnost/vzlom-sajta.html
